@@ -31,6 +31,13 @@ A quick guide of how to install and use Scythe.
 
 <br><br>
 
+## 🔨 To-Do
+- ⬜ Detect cloud services
+- ⬜ Images collector
+- ⬜ Others files collector (XML, TXT, JSON)
+
+<br><br>
+
 ### 🔨 Contributing
 
 A quick guide of how to contribute with the project.
