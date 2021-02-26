@@ -20,7 +20,6 @@ A quick guide of how to install and use Scythe.
 1. Clone the repository with git clone https://github.com/oppsec/Scythe.git
 2. Install the libraries with npm install
 3. Execute Scythe with node index.js
-4. Type the website URL. WARNING: The URL needs to start with http:// or https://
 ```
 
 <br><br>
