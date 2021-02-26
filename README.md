@@ -8,7 +8,7 @@
 
 > 💀 Website Stealer
 
-A tool with educational purpose for quick collection of files from a website.
+A tool with educational purpose to collect files from website.
 
 <br><br>
 
