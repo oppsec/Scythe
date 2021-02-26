@@ -1,14 +1,14 @@
 # Scythe <br> 
 
-<img src="./img/scythe-preview.png" width="500" height="500"> <br>
+<img src="./img/scythe-preview.png" width="600" height="500"> <br>
 
 ![version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg?style=for-the-badge)
 ![license](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 ![npm](https://img.shields.io/badge/NODE-v14.3-purple.svg?style=for-the-badge)
 
-> 💀 Website Stealer
+> 💀 Collect JS and CSS files from websites.
 
-A tool with educational purpose to collect files from website.
+A tool to collect files from a website, only for educational and bug bounty purposes.
 
 <br><br>
 
@@ -32,8 +32,7 @@ A quick guide of how to install and use Scythe.
 
 ## 🔨 To-Do
 - ⬜ Detect cloud services
-- ⬜ Images collector
-- ⬜ Others files collector (XML, TXT, JSON)
+- ⬜ Collect XML and JSON files.
 
 <br><br>
 
